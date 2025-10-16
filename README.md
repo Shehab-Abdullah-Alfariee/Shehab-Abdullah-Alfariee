@@ -59,17 +59,16 @@ alt="shehab" height="30"/></a>
 <img align="center"
 src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
 alt="shehab" height="30"/></a>
-
 </pre>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="410" />
 </summary>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShehabAbd&theme=github-green-purple)](https://git.io/streak-stats)<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="410" />
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 -------------------------------------------<br/>
-Credit: [Shehab Abdullah Mohammed Al-Fariee]
-([https://github.com/shehabaalfariee-developer])<br/>
+Credit: [Shehab Abdullah Mohammed Al-Fariee]([https://github.com/shehabaalfariee-developer])<br/>
 Last Edited on: 17/01/2026
