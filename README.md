@@ -35,40 +35,80 @@ I focus on clean code, logical problem-solving, and continuous learning.
 🌟 Main languages: C++ & C# & Python & Dart & PHP &amp;<br/>
 🌟 Main FrameWorks: flutter , Laravel &amp; 
 
+### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW4w/giphy.gif" width="30">
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+</div>
 
 ## 🧠 My Projects
 - 🧮 [Math Quiz (C++)](https://github.com/shehabaalfariee-developer/Math-Game-cpp)
 - ✊🖐✌ [Rock Paper Scissors (C++)](https://github.com/shehabaalfariee-developer/Rock-Paper-Scissors-cpp)
 
-- ## ⚙️ Tech Stack
+
+## ⚙️ Tech Stack
 - C++ (OOP, STL, Algorithms)
 - Git & GitHub
 - Problem Solving (Logic-based games)
 
+
+
+### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
+- 10 - OOP as it should be (concepts) (Programming Advices)
+- Completed 9+ courses in Abu-Hadhoud Roadmap (Programming Advices)
+- Solved 2000+ programming problems
+
+### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
+- **Abu-Hadhoud Roadmap**
+- Mastering **C++** & **OOP** 💡  
+- Algorithms and Problem Solving  
+- Practicing with small projects 🛠️  
+- Improving my professional profile on **GitHub** and **LinkedIn**
+
+---
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
+</div>
+---
+
+## 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=AhmedYaser-Mt&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
+
 ----------------------------------------
 ☎️<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" data-animated-image="" style="max-width: 100%;"></a>
-## 📫 Connect with Me
-- 🧑‍💻 <a href="https://wa.me/+966536242467" target="blank"><img align="center"
-src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-alt="shehab" height="30"/></a>
-- 💼 <a href="https://www.linkedin.com/in/shehab-abdullah-al-fariee-88b21324b/" target="blank">
-<img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="shehab" height="30"/></a>
-- 🧑‍💻 <a href="https://www.facebook.com/profile.php?id=100023533299524" target="blank"><img align="center"    src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-alt="shehab" height="30"/></a>
-- 🧑‍💻 <a href="https://www.facebook.com/profile.php?id=100023533299524" target="blank">
-<img align="center"
-src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-alt="shehab" height="30"/></a>
+
+### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shehab-abdullah-al-fariee-88b21324b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shehab.a.alfariee@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/+966536242467">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100023533299524">
+   <img src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+alt="shehab"/></a>
+  </a>
+</div>
 </pre>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="410" />
-</summary>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
+---
+
+```cpp
+// Focused on mastering the stack
+class ShehabAbdullah{
+public:
+  string university = "UMS University";
+  string track = "Full Stack Developer";
+  string passion = "Problem Solving & Building Projects";
+  void sayHi() { cout << "Thanks for visiting my profile! 🚀"; }
+};
+```
+
 -------------------------------------------<br/>
-Credit: [Shehab Abdullah Mohammed Al-Fariee]([https://github.com/shehabaalfariee-developer])<br/>
+Credit: [Shehab Abdullah Mohammed Al-Fariee]([https://github.com/Shehab-Abdullah-Alfariee/Shehab-Abdullah-Alfariee])<br/>
 Last Edited on: 17/01/2026
