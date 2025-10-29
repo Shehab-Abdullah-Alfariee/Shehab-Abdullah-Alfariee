@@ -44,6 +44,7 @@ I focus on clean code, logical problem-solving, and continuous learning.
 ## 🧠 My Projects
 - 🧮 [Math Quiz (C++)](https://github.com/shehabaalfariee-developer/Math-Game-cpp)
 - ✊🖐✌ [Rock Paper Scissors (C++)](https://github.com/shehabaalfariee-developer/Rock-Paper-Scissors-cpp)
+- [CRUD Bank (C++)](https://github.com/Shehab-Abdullah-Alfariee/Bank-cpp)
 
 
 ## ⚙️ Tech Stack
