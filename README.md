@@ -33,23 +33,27 @@ I focus on clean code, logical problem-solving, and continuous learning.
 </div>
 <br>
 
+
 ## 🧠 My Projects
 - 🧮 [Math Quiz (C++)](https://github.com/shehabaalfariee-developer/Math-Game-cpp)
 - ✊🖐✌ [Rock Paper Scissors (C++)](https://github.com/shehabaalfariee-developer/Rock-Paper-Scissors-cpp)
 - [CRUD Bank (C++)](https://github.com/Shehab-Abdullah-Alfariee/Bank-cpp)
 
+<br>
 
 ## ⚙️ Tech Stack
 - C++ (OOP, STL, Algorithms)
 - Git & GitHub
 - Problem Solving (Logic-based games)
 
-
+<br>
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
 - 10 - OOP as it should be (concepts) (Programming Advices)
 - Completed 9+ courses in Abu-Hadhoud Roadmap (Programming Advices)
 - Solved 2000+ programming problems
+
+<br>
 
 ### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
 - **Abu-Hadhoud Roadmap**
@@ -57,6 +61,7 @@ I focus on clean code, logical problem-solving, and continuous learning.
 - Algorithms and Problem Solving  
 - Practicing with small projects 🛠️  
 - Improving my professional profile on **GitHub** and **LinkedIn**
+<br>
 
 ---
 <div align="center">
