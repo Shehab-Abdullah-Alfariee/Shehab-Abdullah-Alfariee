@@ -1,5 +1,5 @@
-<h1 align="center">Hi, <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Shehab Abdullah ! </h1>
-<h2 align="center">،،💻 Software Engineer ⌨️</h2><p align='center'>
+<h1 align="center">Hi,<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Shehab Abdullah ! </h1>
+<h2 align="center">💻 Software Engineer ⌨️</h2><p align='center'>
 </p>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=02E8F7&width=435&lines=Welcome+To+My+GitHub+Profile!+%F0%9F%96%90%EF%B8%8F;I+am+a+Software+Engineering+.;Always+Try+To+Learning+New+Things+!;And+Try+To+Improve+My+Skills++%F0%9F%92%AA;I'm+a+Hard-Working+%F0%9F%9B%A0%EF%B8%8F+;Desktop+And+Web+Developer." alt="Typing SVG" /></a>
