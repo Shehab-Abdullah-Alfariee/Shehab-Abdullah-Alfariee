@@ -1,25 +1,13 @@
 <h1 align="center">Hi,<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Shehab Abdullah ! </h1>
 <h2 align="center">💻 Software Engineer ⌨️</h2><p align='center'>
 </p>
+<br>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=02E8F7&width=435&lines=Welcome+To+My+GitHub+Profile!+%F0%9F%96%90%EF%B8%8F;I+am+a+Software+Engineering+.;Always+Try+To+Learning+New+Things+!;And+Try+To+Improve+My+Skills++%F0%9F%92%AA;I'm+a+Hard-Working+%F0%9F%9B%A0%EF%B8%8F+;Desktop+And+Web+Developer." alt="Typing SVG" /></a>
 </p>
 <p align="center">
 </p>
 
-   <!-- <a href="https://www.linkedin.com/in/aastha-jha-805001106/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>    -->
-   <!-- <a href="https://stackoverflow.com/users/11911694/aastha-jha" target="_blank">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  </a>   -->
-  <!-- <a href="https://www.kaggle.com/aastha124" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-  </a>   -->
- 
-  <p>
-  
-  </p>
 <div width="500" class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="shehabAbd@github
 -------------------------
 💻 I'm a passionate **C++ Developer** who loves building console-based games and algorithmic projects.  
@@ -27,19 +15,23 @@ I focus on clean code, logical problem-solving, and continuous learning.
 📝 I am a Software Engineer @ Web Developer @ Desktop Developer
 🌟 Main languages: C++ & C# & Python & Dart & PHP"
 🌟 Main FrameWorks: flutter , Laravel &amp; >
-   ---
 
 <br/>
+
 📝 I am a Software Engineer @<br/>
 💻 Desktop And Web Developer <br/>
 🌟 Main languages: C++ & C# & Python & Dart & PHP &amp;<br/>
 🌟 Main FrameWorks: flutter , Laravel &amp; 
+<br>
+<br>
 
-### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW4w/giphy.gif" width="30">
+### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW4w/giphy.gif" width="30"><br><br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </div>
+<br>
 
 ## 🧠 My Projects
 - 🧮 [Math Quiz (C++)](https://github.com/shehabaalfariee-developer/Math-Game-cpp)
