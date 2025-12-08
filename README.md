@@ -71,10 +71,6 @@ I focus on clean code, logical problem-solving, and continuous learning.
 </div>
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=AhmedYaser-Mt&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
-
 ----------------------------------------
 ☎️<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" data-animated-image="" style="max-width: 100%;"></a>
 
