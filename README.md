@@ -20,7 +20,7 @@ I focus on clean code, logical problem-solving, and continuous learning.
 
 📝 I am a Software Engineer @<br/>
 💻 Desktop And Web Developer <br/>
-🌟 Main languages: C++ & C# & Python & Dart & PHP &amp;<br/>
+🌟 Main languages: C++ & C# &amp;<br/>
 🌟 Main FrameWorks: flutter , Laravel &amp; 
 <br>
 <br>
