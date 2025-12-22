@@ -10,11 +10,11 @@
 
 <div width="500" class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="shehabAbd@github
 -------------------------
-💻 I'm a passionate **C++ Developer** who loves building console-based games and algorithmic projects.  
+💻 I'm a passionate **.NET Developer** & C++ & C# ** who loves building console-based games and algorithmic projects.  
 I focus on clean code, logical problem-solving, and continuous learning.
 📝 I am a Software Engineer @ Web Developer @ Desktop Developer
-🌟 Main languages: C++ & C# & Python & Dart & PHP"
-🌟 Main FrameWorks: flutter , Laravel &amp; >
+🌟 Main languages: C++ & C# "
+🌟 Main FrameWorks: .NET &amp; >
 
 <br/>
 
@@ -45,21 +45,23 @@ I focus on clean code, logical problem-solving, and continuous learning.
 
 ## ⚙️ Tech Stack
 - C++ (OOP, STL, Algorithms)
+- C#  .NET (Windows Form)
 - Git & GitHub
 - Problem Solving (Logic-based games)
 
 <br>
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
-- 10 - OOP as it should be (concepts) (Programming Advices)
-- Completed 9+ courses in Abu-Hadhoud Roadmap (Programming Advices)
+- OOP as it should be (Programming Advices)
+- Data structure (Programming Advices)
+- Completed 14+ courses in Abu-Hadhoud Roadmap (Programming Advices)
 - Solved 2000+ programming problems
 
 <br>
 
 ### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
 - **Abu-Hadhoud Roadmap**
-- Mastering **C++** & **OOP** 💡  
+- Mastering **C++** & **OOP** & **C#** 💡  
 - Algorithms and Problem Solving  
 - Practicing with small projects 🛠️  
 - Improving my professional profile on **GitHub** and **LinkedIn**
