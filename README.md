@@ -14,14 +14,14 @@
 I focus on clean code, logical problem-solving, and continuous learning.
 📝 I am a Software Engineer @ Web Developer @ Desktop Developer
 🌟 Main languages: C++ & C# "
-🌟 Main FrameWorks: .NET &amp; >
+🌟 Main FrameWorks: .NET; >
 
 <br/>
 
 📝 I am a Software Engineer @<br/>
 💻 Desktop And Web Developer <br/>
 🌟 Main languages: C++ & C# <br/>
-🌟 Main FrameWorks: .NET , Flutter &amp; 
+🌟 Main FrameWorks: .NET , Flutter; 
 <br>
 <br>
 
