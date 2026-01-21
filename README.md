@@ -110,9 +110,7 @@ public:
   string university = "UMS University";
   string track = "Full Stack Developer";
   string focus = "Problem Solving & Building Projects";
-  void passion() { while(Age++ < Life.length )
-                      ++knowledge ;
-                 }
+  void passion() { while(Age++ < Life.length ) ++knowledge ;}
   void sayHi() { cout << "Thanks for visiting my profile! 🚀"; }
 };
 ```
