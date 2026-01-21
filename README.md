@@ -104,11 +104,15 @@ alt="shehab"/></a>
 
 ```cpp
 // Focused on mastering the stack
+
 class ShehabAbdullah{
 public:
   string university = "UMS University";
   string track = "Full Stack Developer";
-  string passion = "Problem Solving & Building Projects";
+  string focus = "Problem Solving & Building Projects";
+  void passion() { while(Age++ < Life.length )
+                      ++knowledge ;
+                 }
   void sayHi() { cout << "Thanks for visiting my profile! 🚀"; }
 };
 ```
