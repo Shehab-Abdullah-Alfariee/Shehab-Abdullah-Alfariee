@@ -7,10 +7,10 @@
 </p>
 <br>
 
-💻 I'm a passionate **.NET Developer** & C++ & C# ** .NET & SQL Server Developer.<br><br>
-🚀 Focused on building Scalable Systems, Console-based Games, and Algorithmic Solutions.<br><br>
-🧠 Clean Code Enthusiast & Logical Problem Solver (Solved 2000+ challenges).<br><br>
-🛠️ Tech Stack: C++, C#, .NET Framework, and SQL Server.<br><br>
+💻 I'm a passionate **.NET Developer** & C++ & C# ** .NET & SQL Server Developer.<br>
+🚀 Focused on building Scalable Systems, Console-based Games, and Algorithmic Solutions.<br>
+🧠 Clean Code Enthusiast & Logical Problem Solver (Solved 2000+ challenges).<br>
+🛠️ Tech Stack: C++, C#, .NET Framework, and SQL Server.<br>
 <br>
 
 ### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW4w/giphy.gif" width="30"><br><br>
