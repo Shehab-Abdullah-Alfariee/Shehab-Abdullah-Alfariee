@@ -60,7 +60,7 @@ I focus on clean code, logical problem-solving, and continuous learning.
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
 - OOP as it should be (Programming Advices)
 - Data structure (Programming Advices)
-- Completed 14+ courses in Abu-Hadhoud Roadmap (Programming Advices)
+- Completed 18+ courses in Abu-Hadhoud Roadmap (Programming Advices)
 - Solved 2000+ programming problems
 
 <br>
@@ -69,7 +69,8 @@ I focus on clean code, logical problem-solving, and continuous learning.
 - **Abu-Hadhoud Roadmap**
 - Mastering **C++** & **OOP** & **C#** 💡  
 - Algorithms and Problem Solving  
-- Practicing with small projects 🛠️  
+- Practicing with real-world projects (e.g., Bank Management System) 🛠️
+- Advanced SQL Server skills (Schema Design, Joins, & Stored Procedures)
 - Improving my professional profile on **GitHub** and **LinkedIn**
 <br>
 
