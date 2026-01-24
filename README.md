@@ -1,28 +1,16 @@
 <h1 align="center">Hi,<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Shehab Abdullah ! </h1>
-<h2 align="center">💻 Software Engineer ⌨️</h2><p align='center'>
+<h2 align="center">💻Junior Software Developer | .NET & SQL Server Specialist | Algorithms & Problem Solving Enthusiast ⌨️</h2><p align='center'>
 </p>
 <br>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=02E8F7&width=435&lines=Welcome+To+My+GitHub+Profile!+%F0%9F%96%90%EF%B8%8F;I+am+a+Software+Engineering+.;Always+Try+To+Learning+New+Things+!;And+Try+To+Improve+My+Skills++%F0%9F%92%AA;I'm+a+Hard-Working+%F0%9F%9B%A0%EF%B8%8F+;Desktop+And+Web+Developer." alt="Typing SVG" /></a>
 </p>
-<p align="center">
-</p>
-
-<div width="500" class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="shehabAbd@github
--------------------------
-💻 I'm a passionate **.NET Developer** & C++ & C# ** who loves building console-based games and algorithmic projects.  
-I focus on clean code, logical problem-solving, and continuous learning.
-📝 I am a Software Engineer @ Web Developer @ Desktop Developer
-🌟 Main languages: C++ & C# "
-🌟 Main FrameWorks: .NET; >
-
-<br/>
-
-📝 I am a Software Engineer @<br/>
-💻 Desktop And Web Developer <br/>
-🌟 Main languages: C++ & C# <br/>
-🌟 Main FrameWorks: .NET ; 
 <br>
+
+💻 I'm a passionate **.NET Developer** & C++ & C# ** .NET & SQL Server Developer.<br><br>
+🚀 Focused on building Scalable Systems, Console-based Games, and Algorithmic Solutions.<br><br>
+🧠 Clean Code Enthusiast & Logical Problem Solver (Solved 2000+ challenges).<br><br>
+🛠️ Tech Stack: C++, C#, .NET Framework, and SQL Server.<br><br>
 <br>
 
 ### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW4w/giphy.gif" width="30"><br><br>
