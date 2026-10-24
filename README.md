@@ -4,23 +4,13 @@
 <br>
 <p align="center">
 <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=02E8F7&width=435&lines=Welcome+To+My+GitHub+Profile!+%F0%9F%96%90%EF%B8%8F;I+am+a+Software+Engineering+.;Always+Try+To+Learning+New+Things+!;And+Try+To+Improve+My+Skills++%F0%9F%92%AA;I'm+a+Hard-Working+%F0%9F%9B%A0%EF%B8%8F+;Desktop+And+Web+Developer." alt="Typing SVG" /></a>
-</p>
-<br>
+</p><br>
 
+## About Me
 💻 I'm a passionate **.NET Developer** & C++ & C# ** .NET & SQL Server Developer.<br>
 🚀 Focused on building Scalable Systems, Console-based Games, and Algorithmic Solutions.<br>
 🧠 Clean Code Enthusiast & Logical Problem Solver (Solved 2000+ challenges).<br>
 🛠️ Tech Stack: C++, C#, .NET Framework, and SQL Server.<br>
-<br>
-
-### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW4w/giphy.gif" width="30"><br><br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-</div>
-<br>
-
 
 ## 🧠 My Projects
 - 🚗💻🪪 [DVLD-(Driving & Vehicle License Management System- C# - SQL-Server)](https://github.com/Shehab-Abdullah-Alfariee/DVLD-Driving-License-Management-System/tree/main) 
@@ -30,31 +20,21 @@
 - - 🍕 [Pizza-Order-System-With-C#-WinForm](https://github.com/Shehab-Abdullah-Alfariee/Pizza-Order)
 - ❌⭕ [Tic-Tac-Toe-Game-XO-Game-With-C#-WinForm](https://github.com/Shehab-Abdullah-Alfariee/Tic-Tac-Toe-Game-XO-Game)
 - [CRUD Bank (C++)](https://github.com/Shehab-Abdullah-Alfariee/Bank-cpp)
-- [ATM-Banking-System-C++](https://github.com/Shehab-Abdullah-Alfariee/ATM-Banking-System-Cpp) 
+- [ATM-Banking-System-C++](https://github.com/Shehab-Abdullah-Alfariee/ATM-Banking-System-Cpp)
+</p><br>
 
-
-
-
-
-
-<br>
-
-## ⚙️ Tech Stack
+### ⚙️ Tech Stack
 - C++ (OOP, STL, Algorithms)
 - C#  .NET (Windows Form)
 - Git & GitHub
 - Database - ADO.NET - T-SQL 
-- Problem Solving (Logic-based games)
-
-<br>
+- Problem Solving (Logic-based games)<br>
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
 - OOP as it should be (Programming Advices)
 - Data structure (Programming Advices)
 - Completed 18+ courses in Abu-Hadhoud Roadmap (Programming Advices)
-- Solved 2000+ programming problems
-
-<br>
+- Solved 2000+ programming problems<br>
 
 ### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
 - **Abu-Hadhoud Roadmap**
@@ -65,16 +45,39 @@
 - Improving my professional profile on **GitHub** and **LinkedIn**
 <br>
 
----
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
-</div>
----
+</div><br>
 
-----------------------------------------
-☎️<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" data-animated-image="" style="max-width: 100%;"></a>
+### 🛠 Skills & Tools
 
-### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+<br>
+
+### 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ShehabAbdullah&theme=gruvbox-duo&mode=weekly" alt="GitHub Streak" />
+</p>
+<br>
+
+### 📊 GitHub Metrics Dashboard
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shehab-Abdullah-Alfariee&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shehab-Abdullah-Alfariee&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shehab-Abdullah-Alfariee&theme=tokyonight"/>
+</p><br>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" data-animated-image="" style="max-width: 100%;"></a>
+
+### ☎️ Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shehab-abdullah-al-fariee-88b21324b/">
@@ -110,4 +113,4 @@ public:
 
 -------------------------------------------<br/>
 Credit: [Shehab Abdullah Mohammed Al-Fariee]([https://github.com/Shehab-Abdullah-Alfariee/Shehab-Abdullah-Alfariee])<br/>
-Last Edited on: 15/10/2025
+Last Edited on: 24/10/2026
